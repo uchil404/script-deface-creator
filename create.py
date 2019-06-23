@@ -125,6 +125,6 @@ fo.write(messagescript15)
 fo.write(messagescript16)
 
 print "Script Berhasil Di buat!"
-print "Kontak : fb.com/ubaii.id.9"
+print "Kontak : richouchil0@gmail.com"
 
 fo.close()
